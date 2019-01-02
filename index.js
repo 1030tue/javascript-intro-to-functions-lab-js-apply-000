@@ -5,4 +5,6 @@ function shout(string) {
 function sayHiToGrandma(string) {
   if (string === lowercase) {
     alert("I can\'t hear you!");
+  }
+  if (string === uppercase )
 }
