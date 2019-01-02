@@ -6,5 +6,7 @@ function sayHiToGrandma(string) {
   if (string === lowercase) {
     alert("I can\'t hear you!");
   }
-  if (string === uppercase )
+  if (string === uppercase ) {
+    alert("YES INDEED");
+  }
 }
